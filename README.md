@@ -1,4 +1,7 @@
 # COP-3710-Smart-Home-IoT-Sensor-Analytics-Database
 Project by Savitri Harkhu
-Design an IoT database storing sensor readings and weather data. Must include anomaly detection queries and retention-based partitioning.
-https://www.kaggle.com/datasets/taranvee/smart-home-dataset-with-weather-information
+
+Designing an IoT database storing sensor readings and weather data. It will include anomaly detection queries and retention-based partitioning. The main focus scope of the data will be on the weather and temperature data collected by teh smart home systems that people have,
+
+Dataset Source - https://www.kaggle.com/datasets/taranvee/smart-home-dataset-with-weather-information
+Secondary Dataset Source - https://zenodo.org/records/7620136
