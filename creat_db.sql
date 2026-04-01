@@ -36,7 +36,7 @@ CREATE TABLE Sensor_Reading (
     LocalDeviceID        VARCHAR2(100) NOT NULL,
     ConditionType        VARCHAR2(100) NOT NULL,
     Value        NUMBER NOT NULL,
-    Timestamp        date NOT NULL
+    Timestamp        DATE NOT NULL
 
 );
 
