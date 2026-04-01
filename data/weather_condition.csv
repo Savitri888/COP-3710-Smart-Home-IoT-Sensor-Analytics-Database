@@ -1,0 +1,6 @@
+ConditionType,SeverityLevel
+Sunny,1
+Cloudy,2
+Windy,3
+Rain,4
+Thunderstorm,5
