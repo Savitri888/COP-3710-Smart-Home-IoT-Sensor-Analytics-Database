@@ -5,7 +5,7 @@ import pandas as pd
 
 #before running dataload.py, make sure to paste create_db.sql into your freesql and run it
 
-#then paste 'python new_dataload.py'
+#then paste 'python dataload.py'
 
 
 # --- CONFIGURATION ---
