@@ -8,11 +8,8 @@ Dataset Source - https://traces.cs.umass.edu/docs/traces/smartstar/#:~:text=Home
 
 Database Application: OracleSQL and Python via Visual Studio Code. Using Visual Studio Code will allow for efficient creation of different tables and schemas/users at once, in comparison to the ui of the OracleSQL, where the user writes one line at a time. I will be conncting to the database of Oracle throught the instant client to make it function. This application provides the user with queries that they can type in, with their results displayed in the command window. 
 
-Below is a visual representation of the entity relationships via Crow's Foot ER Diagram:
-
-
+# Below is a Visual Representation of the Entity Relationships via Crow's Foot ER Diagram:
 <img width="939" height="525" alt="image" src="https://github.com/user-attachments/assets/43e7e52a-dbbe-45df-934b-a1ec8fb72f4b" />
-
 
 # How to use this repo:
 Step 1: Use the “create_db.sql” to create the database.
@@ -22,3 +19,7 @@ Step 2: Use the "dataload.py" to populate the database with the Smart Home data.
 Step 3: Change the line X to line Y in "app.py" and add your database credentials.
 
 Step 4: Run the "app.py" using the command: Python -m streamlit run app.py
+
+# App's Home Page:
+<img width="1910" height="872" alt="image" src="https://github.com/user-attachments/assets/b65560c3-b3c9-4c09-aa06-bf2193d11135" />
+
