@@ -13,6 +13,8 @@ import datetime
 
 # --- CONFIGURATION (Connecting to freesql) ---
 LIB_DIR = r"Put Directory here"
+
+# Your Oracle Credentials
 DB_USER = "Username here" 
 DB_PASS = "#" 
 DB_DSN  = "#" 
