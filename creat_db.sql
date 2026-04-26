@@ -3,6 +3,7 @@
 --         EXECUTE IMMEDIATE 'DROP TABLE "' || c.table_name || '" CASCADE CONSTRAINTS';
 --     END LOOP;
 -- END;
+-- /
 
 -- PURGE RECYCLEBIN;
 
