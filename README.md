@@ -11,3 +11,9 @@ Database Application: OracleSQL via Visual Studio Code. Using Visual Studio Code
 
 <img width="939" height="525" alt="image" src="https://github.com/user-attachments/assets/43e7e52a-dbbe-45df-934b-a1ec8fb72f4b" />
 
+
+# How to use this repo:
+Step 1: Use the “create_db.sql” to create the database
+Step 2: Use the dataload.py to populate the database with toy data
+Step 3: Change the line X to line Y in app.py and add your database credentials
+Step 4: run the app.py using the command: Python -m streamlit run app.py
