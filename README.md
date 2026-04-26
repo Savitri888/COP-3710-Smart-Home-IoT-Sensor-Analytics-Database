@@ -8,6 +8,8 @@ Dataset Source - https://traces.cs.umass.edu/docs/traces/smartstar/#:~:text=Home
 
 Database Application: OracleSQL via Visual Studio Code. Using Visual Studio Code will allow for efficient creation of different tables and schemas/users at once, in comparison to the ui of the OracleSQL, where the user writes one line at a time. I will be selecting the database of Oracle to make it function. This application provides the user with queries that they can type in, with their results displayed in the command window. 
 
+Below is a visual representation of the entity relationships via a Crowfoot ER Diagram:
+
 
 <img width="939" height="525" alt="image" src="https://github.com/user-attachments/assets/43e7e52a-dbbe-45df-934b-a1ec8fb72f4b" />
 
