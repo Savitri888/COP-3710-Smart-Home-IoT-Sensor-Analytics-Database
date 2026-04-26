@@ -16,6 +16,9 @@ Below is a visual representation of the entity relationships via a Crowfoot ER D
 
 # How to use this repo:
 Step 1: Use the “create_db.sql” to create the database.
+
 Step 2: Use the "dataload.py" to populate the database with the Smart Home data.
+
 Step 3: Change the line X to line Y in "app.py" and add your database credentials.
+
 Step 4: Run the "app.py" using the command: Python -m streamlit run app.py
