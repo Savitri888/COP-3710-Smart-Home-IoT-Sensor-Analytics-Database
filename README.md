@@ -6,7 +6,7 @@ Designing an IoT database storing sensor readings and weather data. It will incl
 Dataset Source - https://traces.cs.umass.edu/docs/traces/smartstar/#:~:text=Home%20A,Home%20A
 
 
-Database Application: OracleSQL via Visual Studio Code. Using Visual Studio Code will allow for efficient creation of different tables and schemas/users at once, in comparison to the ui of the OracleSQL, where the user writes one line at a time. I will be selecting the database of Oracle to make it function. This application provides the user with queries that they can type in, with their results displayed in the command window. 
+Database Application: OracleSQL and Python via Visual Studio Code. Using Visual Studio Code will allow for efficient creation of different tables and schemas/users at once, in comparison to the ui of the OracleSQL, where the user writes one line at a time. I will be conncting to the database of Oracle throught the instant client to make it function. This application provides the user with queries that they can type in, with their results displayed in the command window. 
 
 Below is a visual representation of the entity relationships via a Crowfoot ER Diagram:
 
