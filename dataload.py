@@ -10,12 +10,12 @@ import pandas as pd
 
 # --- CONFIGURATION ---
 # Path to your extracted Instant Client
-LIB_DIR = r"C:\Users\Matthew\Documents\2026 sophmore\Database1\Oraclestuff (has important)\instantclient-basiclite-windows.x64-23.26.1.0.0\instantclient_23_0"
+LIB_DIR = r"Put Directory here"
 
 # Your Oracle Credentials
-DB_USER = "MILEYFAMM_SCHEMA_D0P3M" 
-DB_PASS = "IC26FEZOpHCR7367RAJPQ5JDP9!PLM" 
-DB_DSN  = "db.freesql.com:1521/23ai_34ui2" 
+DB_USER = "Username here" 
+DB_PASS = "#" 
+DB_DSN  = "#" 
 
 # Initialize Client
 if LIB_DIR:
